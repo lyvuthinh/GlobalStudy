@@ -2709,11 +2709,17 @@ fieldset[disabled] .btn {
 .btn:active {
     background: #f2f2f2
 }
-.btn-primary.btn {
+/*dodgerblue*/
+/*.btn-primary.btn {
     border-color: #ff5a5f;
     border-bottom-color: #e00007;
     background-color: #ff5a5f;
-    color: #fff
+    color: #fff*/
+.btn-primary.btn {
+    border-color: #2e6da4;
+    border-bottom-color: #e00007;
+    background-color: #337ab7;
+    color: #fff    
 }
 .btn-primary.btn:hover,
 .btn-primary.btn:focus {
